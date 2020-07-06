@@ -59,6 +59,7 @@ func main() {
 				fmt.Println(" ")
 				goto label
 				}
+			
 	// TO CHECK IF THE GAME EXISTS IN THE DIAGONAL	
 				
 			if j==l-1-i {
